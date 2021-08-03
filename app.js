@@ -9,7 +9,7 @@ const passportJWT = require('passport-jwt');
 const cookieParser = require('cookie-parser');
 const apiRouter = require('./routes/api');
 const jwt = require("jsonwebtoken");
-var mongoose = require('mongoose');
+const mongoose = require('mongoose');
 
 JWTStrategy = passportJWT.Strategy
 
