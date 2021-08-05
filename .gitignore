@@ -41,6 +41,7 @@ build/Release
 node_modules/
 jspm_packages/
 .elasticbeanstalk/
+client/src/models/
 
 # TypeScript v1 declaration files
 typings/
